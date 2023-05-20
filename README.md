@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to movie-app 👋</h1>
+<h1 align="center">Welcome to Movie-App 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/movie-app" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/movie-app.svg">
@@ -6,14 +6,27 @@
   <a href="https://github.com/Suhas7842/Movie-App" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
   <a href="https://twitter.com/rsuhaskumar" target="_blank">
     <img alt="Twitter: rsuhaskumar" src="https://img.shields.io/twitter/follow/rsuhaskumar.svg?style=social" />
   </a>
 </p>
+<h2>Version:</h2>
+<p>Node: 18.0.6</p>
+<p>Cors: 2.8.5</p>
+<p>Express: 4.18.2</p>
+<p>MongoDB: 4.16.0</p>
 
-> This is a Movies website in which you can see the reviews of every movie in the World.You can post,edit,delete reviews of 
+----------------------
 
-### 🏠 [Homepage](the movies.https://github.com/Suhas7842/Movie-App)
+<h2>Description:</h2>
+
+ * This is a Movies website in which you can see the reviews of every movie in the World.
+ * You can post, edit, delete reviews of the movie you like in the website.
+
+### 🏠 [Homepage](https://github.com/Suhas7842/Movie-App)
 
 ### ✨ [Demo](https://github.com/Suhas7842/Movie-App)
 
@@ -21,12 +34,15 @@
 
 ```sh
 npm install
+npm install express
+npm install cors express mongodb
 ```
 
 ## Run tests
 
 ```sh
-node &#34;c:\Users\rsuha\Downloads\Movie App\index.js&#34;
+node c:\Users\username\folder_name\Movie App\movie.js
+node c:\Users\username\folder_name\Movie App\index.js
 ```
 
 ## Author
@@ -40,10 +56,3 @@ node &#34;c:\Users\rsuha\Downloads\Movie App\index.js&#34;
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]( https://github.com/Suhas7842/Movie-App/issues). 
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
